@@ -1,5 +1,3 @@
-Our focus is everything regarding infrastructures for developers. Means full- or semiautomated CI/CD Pipelines with Jenkins, cloud infrastructure based on AWS.
-
 <h1 align="center">
     Hi 👋, I'm Alexander Wiechert
 </h1>
