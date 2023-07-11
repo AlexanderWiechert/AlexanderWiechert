@@ -1,11 +1,11 @@
 <h1 align="center">
-    Hi 👋, I'm Alexander Wiechert
+    Hi 👋, I'm Alex
 </h1>
 
 <p align="justify">
     Our focus is everything regarding infrastructures for developers. 
-    Means full- or semiautomated CI/CD Pipelines with Jenkins, 
-    cloud infrastructure based on AWS.
+    Means full- or semiautomated CI/CD Pipelines with Jenkins/Github actions/ Gitlab CICD, 
+    for whatever you need.
 </p>
 
 <p align="center">
